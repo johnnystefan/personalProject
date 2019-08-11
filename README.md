@@ -4,7 +4,7 @@ _Prueba Backend Frubana_
 
 ### Pre-requisitos 📋
 
-_Herramientas necesarias para levantar el proyecto_
+_Herramientas necesarias para levantar el proyecto._
 
 ```
 Python 3.7.4
@@ -17,25 +17,25 @@ Python 3.7.4
 
 ### Instalación 🔧
 
-_Para poder correr el script de python sera necesario tener instalado Python en tu sistema_
+_Para poder correr el script de python será necesario tener instalado Python en tu sistema._
 
-_Es Recomendable descargar sus versiones 3.x,ejemplo_
+_Es Recomendable descargar sus versiones 3.x,ejemplo:_
 
 ```
 Python 3.7.4
 ```
 
-_De lo contrario si usas versiones como_
+_De lo contrario si usas versiones como:_
 
 ```
 Python 2.x
 ```
 
-_deberas modificar el codigo ya que muchas de las sentencias y sintaxis del lenguaje han sido actulizadas en sus versiones 3.x_
+_deberas modificar el codigo ya que muchas de las sentencias y sintaxis del lenguaje han sido actualizadas en sus versiones 3.x de Python_
 
 ## Comentarios a Mencionar 📌
 
-.-Deberas ejecutar estos estos script desde la consola o shell de tu pc, ya que la interfaz de ambos es para este tipo display.
+.-Deberas ejecutar estos script desde la consola o shell de tu pc, ya que la interfaz de ambos es para este tipo display.
 
 .-EJEMPLO DE ENTRADA PARA EL Scrip "prueba.py":
   .-Input:
@@ -69,9 +69,7 @@ _deberas modificar el codigo ya que muchas de las sentencias y sintaxis del leng
           A partir de la segunda linea incluyendola, digitaras los datos siendo estos 
           separados por un espacio. 
 
-## Autores ✒️
-
-_Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
+## Autor ✒️
 
 * **Johnny Stefan Ordoñez Mazurek** - *Backend Developer Python & Django* 
 Visita mi pagina web [>> AQUI <<](http://johnnydev.pythonanywhere.com/)
