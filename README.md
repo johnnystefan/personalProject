@@ -1,4 +1,4 @@
-# Preyecto Personal para FRUBANA por JOHNNY STEFAN
+# Proyecto Personal para FRUBANA por JOHNNY STEFAN
 
 _Prueba Backend Frubana_
 
