@@ -12,7 +12,7 @@ Python 3.7.4
 
 ## Construido con 🛠️
 
-* [Python](https://www.python.org/downloads/) - Lenguaje en el que esta escrito el scrip.py
+* [Python](https://www.python.org/downloads/) - Lenguaje en el que esta escrito el script.py
 * [VS Code](https://code.visualstudio.com/) - Editor de Código
 
 ### Instalación 🔧
@@ -37,7 +37,7 @@ _deberas modificar el codigo ya que muchas de las sentencias y sintaxis del leng
 
 .-Deberas ejecutar estos script desde la consola o shell de tu pc, ya que la interfaz de ambos es para este tipo display.
 
-.-EJEMPLO DE ENTRADA PARA EL Scrip "prueba.py":
+.-EJEMPLO DE ENTRADA PARA EL Script "prueba.py":
   .-Input:
   ```
     7
@@ -55,7 +55,7 @@ _deberas modificar el codigo ya que muchas de las sentencias y sintaxis del leng
           digito "NO HAY ESPACIOS"
           
           
- .-EJEMPLO DE ENTRADA PARA EL Scrip "prueba2.py":
+ .-EJEMPLO DE ENTRADA PARA EL Script "prueba2.py":
   .-Input:
   ```
     5
