@@ -77,7 +77,7 @@ _deberas modificar el codigo ya que muchas de las sentencias y sintaxis del leng
 
 ## Autor ✒️
 
-* **Johnny Stefan Ordoñez Mazurek** - *Backend Developer Python & Django* 
+* **Johnny Stefan Ordoñez Mazurek** - *Backend Developer Python & Django* -
 Visita mi pagina web [>> AQUI <<](http://johnnydev.pythonanywhere.com/)
 
 ---
