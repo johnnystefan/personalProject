@@ -39,7 +39,7 @@ _deberas modificar el codigo ya que muchas de las sentencias y sintaxis del leng
 
 .-EJEMPLO DE ENTRADA PARA EL Scrip "prueba.py":
   .-Input:
-    ```
+  ```
     7
     r1
     a1
@@ -48,7 +48,7 @@ _deberas modificar el codigo ya que muchas de las sentencias y sintaxis del leng
     r1
     r2
     r1
-    ```
+  ```
     NOTA: La primera línea es un número entero, N, que indica el número de operaciones.
           Cada una de las próximas N líneas son a x o r x. a x indica que x se agrega al
           conjunto, y r x indica que x es eliminado del conjunto. Entre la operacion y el
